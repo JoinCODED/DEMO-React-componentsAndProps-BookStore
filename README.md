@@ -16,8 +16,8 @@ Do not clone and use this, follow the steps to create a project like this one wi
 ## Instructor Notes
 
 ### steps :
-1. create a react project `yarn create react-app book-store`
-2. `cd book-store` `yarn start`
+1. create a react project `npx create-react-app book-store`
+2. `cd book-store` `npm start`
 3. play around in app.js, show that we have to have a parent tag
 4. place a ready css file 
 5. create home page (image and title)
