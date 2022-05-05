@@ -5,24 +5,25 @@ a book store with home page, list of books page, books details page
 
 ## What are the objectives?
 
-1.creating a react project
-2.creating functional components
-3.pass prope from parent to component to child
+1. Creating a react project.
+2. Creating functional components.
+3. Pass props from parent to component to child.
 
 ## Steps
 
-Do not clone and use this, follow the steps to create a project like this one with the students
+Do not clone and use this, follow the steps to create a project like this one with the students.
 
 ## Instructor Notes
 
 ### Steps
-1. create a react project `npx create-react-app book-store`.
+1. Create a react project `npx create-react-app book-store`.
 2. `cd book-store` `npm start`.
 3. Play around in app.js
-4. Show that we must have a parent tag
+4. Show that we must have a parent tag.
 5. Show that we must add className not class.
-6. Place a ready css file 
+6. Place a ready css file.
 7. Add an image and title for your website.
+8. Save the title into JS and render it (emphasize on the {})
 
 **STOP AND SOLVE THE TASK**
 
