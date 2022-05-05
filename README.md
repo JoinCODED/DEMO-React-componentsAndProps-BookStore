@@ -1,7 +1,7 @@
-# React-day1 book shop
+# React - Day 1 Book Shop
 
 ## What is this demo?
-a book store with home page, list of books page, books details page
+A book store with a description and a list of books.
 
 ## What are the objectives?
 
@@ -24,6 +24,20 @@ Do not clone and use this, follow the steps to create a project like this one wi
 6. Place a ready css file.
 7. Add an image and title for your website.
 8. Save the title into JS and render it (emphasize on the {})
+9. Create an array of books.
+
+
+
+11. Render the first book manually.
+```javascript
+<div>
+  <h3>{books[0].title}</h3>
+  <img src={books[0].image} alt={books[0].title} />
+</div>
+```
+11. Don't forget to style it!
+12. Render the rest of the data manuallly.
+13. Show them how to use `.map` instead of manually rendering the data. (No components and props yet)
 
 **STOP AND SOLVE THE TASK**
 
